@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 import wolframalpha
-app_id = 'RL6PJK-KH7Q8QR25Y'
+app_id = '#ADD YOUR API KEY FROM WOLFRAMALPHA HERE'
 client = wolframalpha.Client(app_id)
 
 sg.theme('DarkTeal2')
